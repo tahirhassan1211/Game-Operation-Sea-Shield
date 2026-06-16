@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/5b66fab2-4b5a-4bbc-aae2-e6006edad247
+play game at: https://operation-sea-shield-623795964840.asia-southeast1.run.app
 
 ## Run Locally
 
